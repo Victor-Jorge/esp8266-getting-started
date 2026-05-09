@@ -2,6 +2,9 @@
 Esse é um repositório de fim explicativo sobre as configurações necessárias para programar o microcontrolador ESP8266 NODE MCU 
 
 # Configurando ESP8266
+![Foto ESP8266 V2](https://github.com/Victor-Jorge/esp8266-getting-started/blob/main/Images/NodeMCU%20ESP8266%20V3.png)
+![Foto ESP8266 V2](https://github.com/Victor-Jorge/esp8266-getting-started/blob/main/Images/NodeMCU%20ESP8266%20V3.png)
+
 Dependendo da versão da placa, o chip responsável por essa conversão pode ser o CP210x (placas NodeMCU V2 e ESP32) ou o CH340G (placas NodeMCU V3). Neste tutorial você aprenderá como instalar o driver adequado e desta forma garantir que sua placa possa ser programada.
 
 [site da robocore explicando drivers](https://www.robocore.net/tutoriais/instalando-driver-do-nodemcu)
